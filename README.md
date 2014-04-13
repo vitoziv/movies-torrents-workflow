@@ -7,7 +7,7 @@ Movies torrents workflow
 
 搜索霍比特人
 
-![screenshot](https://github.com/vitoziv/movies-torrents-workflow/blob/master/images/screenshot.jpg)
+![screenshot](https://raw.githubusercontent.com/vitoziv/movies-torrents-workflow/master/screenshot.png)
 
 ##如何使用
 - 在 alfred 输入框中输入 `movie:torrents + 空格 + 电影名称`
