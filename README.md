@@ -1,7 +1,13 @@
 Movies torrents workflow
 ====
 
-用于获取 yts.re 上提供的电影种子的 Alfred workflow
+用于获取 yts.to 上提供的电影种子的 Alfred workflow
+
+
+2015.05.18 update
+
+- Now use `http://yts.to/api/v2`
+
 
 ##截图
 
@@ -19,6 +25,10 @@ Movies torrents workflow
 
 - 搜索的电影名称只能是电影的英文名
 - 下载的电影没有字幕，中文字幕需要自己另外下载
+
+## Reference
+
+[http://yts.to/api](http://yts.to/api)
 
 ##Licence
 Under the MIT license
